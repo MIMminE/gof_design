@@ -1,4 +1,4 @@
-package gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.note;
+package gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.note;
 
 public class ChainRequest {
 

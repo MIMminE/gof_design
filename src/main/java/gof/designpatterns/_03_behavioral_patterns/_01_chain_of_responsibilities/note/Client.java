@@ -1,8 +1,7 @@
-package gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.note;
+package gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.note;
 
-import gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.lecture.Request;
-import gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.note._implements.AuthChain;
-import gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.note._implements.LogChain;
+import gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.note._implements.AuthChain;
+import gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.note._implements.LogChain;
 
 import java.util.List;
 

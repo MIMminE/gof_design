@@ -1,7 +1,7 @@
-package gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.lecture;
+package gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.lecture;
 
-import gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.lecture.handlers.AuthRequestHandler;
-import gof.designpatterns._03_behavioral_patterns._03_01_chain_of_responsibilities.lecture.handlers.LogRequestHandler;
+import gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.lecture.handlers.AuthRequestHandler;
+import gof.designpatterns._03_behavioral_patterns._01_chain_of_responsibilities.lecture.handlers.LogRequestHandler;
 
 public class Client {
 
