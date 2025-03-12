@@ -1,0 +1,7 @@
+package gof.designpatterns._01_creational_patterns._03_abstract_factory;
+
+
+public interface ShipFactory {
+
+    Ship createShip();
+}
